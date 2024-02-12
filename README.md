@@ -1,3 +1,4 @@
+<img src = "https://assets-pergikuliner.com/SSwNbRIbekupGPdafC3sxmbX7fE=/945x0/smart/filters:watermark(https://assets-pergikuliner.com/assets/pegimakan-logo-3e147c56e232f471596371920946ae65.png,-0,-3,10):no_upscale()/https://assets-pergikuliner.com/uploads/image/picture/1610539/picture-1569572838.jpg">
 <h1 align="center">Hi 👋, I'm Syahrial</h1>
 <h3 align="center">Jangan di Seriusin Puh 🙏</h3>
 
@@ -11,7 +12,7 @@
 
 - 💬 Ask me about **kiw kiw cukurukuk**
 
-- 📫 How to reach me **langsung kerumah**
+- 📫 How to reach me **langsung kerumah ajaa**
 
 - ⚡ Fun fact **aku cowo bejir**
 
