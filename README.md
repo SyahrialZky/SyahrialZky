@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Syahrial</h1>
 <h3 align="center">Jangan di Seriusin Puh 🙏</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=syahrialzky&label=Profile%20views&color=0e75b6&style=flat](https://id.pinterest.com/pin/318348267424884407/)" alt="syahrialzky" /> </p>
+<p align="left"> <img src="https://id.pinterest.com/pin/318348267424884407/" alt="syahrialzky" /> </p>
 
 - 🔭 I’m currently studying on **Universitas Pembangunan Nasional Veteran Jawa timur**
 
