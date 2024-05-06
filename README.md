@@ -1,8 +1,8 @@
-<img src = "https://assets-pergikuliner.com/SSwNbRIbekupGPdafC3sxmbX7fE=/945x0/smart/filters:watermark(https://assets-pergikuliner.com/assets/pegimakan-logo-3e147c56e232f471596371920946ae65.png,-0,-3,10):no_upscale()/https://assets-pergikuliner.com/uploads/image/picture/1610539/picture-1569572838.jpg">
+<img src = "https://bit.ly/github_banner">
 <h1 align="center">Hi 👋, I'm Syahrial</h1>
 <h3 align="center">Jangan di Seriusin Puh 🙏</h3>
 
-<p align="left"> <img src="https://id.pinterest.com/pin/318348267424884407/" alt="syahrialzky" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syahrialzky&label=Profile%20views&color=0e75b6&style=flat" alt="syahrialzky" /> </p>
 
 - 🔭 I’m currently studying on **Universitas Pembangunan Nasional Veteran Jawa timur**
 
