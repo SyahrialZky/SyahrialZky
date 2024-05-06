@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahrialzky&label=Profile%20views&color=0e75b6&style=flat" alt="syahrialzky" /> </p>
 
-- 🔭 I’m currently working on **Pt Mencari Cinta Sejati**
+- 🔭 I’m currently studying on **Universitas Pembangunan Nasional Veteran Jawa timur**
 
 - 🌱 I’m currently learning **Laravel,MERN, Python**
 
-- 👯 I’m looking to collaborate on **Google Collab**
-
-- 💬 Ask me about **kiw kiw cukurukuk**
+- 💬 Ask me about **Something interest**
 
 - 📫 How to reach me **langsung kerumah ajaa**
 
